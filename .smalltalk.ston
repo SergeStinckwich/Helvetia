@@ -1,13 +1,9 @@
 SmalltalkCISpec {
   #loading : [
 SCIMonticelloLoadSpec {
-  #url : 'http://smalltalkhub.com/mc/SergeStinckwich/Helvetia/main',    
-  #packages : ['AST-Compiler', 'QuasiQuote'], 
-  #platforms : [ #pharo ] 
+  #url : 'http://smalltalkhub.com/mc/SergeStinckwich/Helvetia/main',
+  #packages : ['AST-Compiler', 'QuasiQuote'],
+  #platforms : [ #pharo ]
 }
-
-  ],
-  #testing : {
-    // TestCase Selection...
-  }
+  ]
 }
