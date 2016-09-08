@@ -2,7 +2,7 @@ SmalltalkCISpec {
   #loading : [
 SCIMonticelloLoadSpec {
   #url : 'http://smalltalkhub.com/mc/SergeStinckwich/Helvetia/main',
-  #packages : ['AST-Compiler', 'QuasiQuote'],
+  #packages : ['AST-Compiler', 'QuasiQuote', 'Helvetia-Core'],
   #platforms : [ #pharo ]
 }
   ],
