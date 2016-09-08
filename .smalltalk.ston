@@ -5,5 +5,7 @@ SCIMonticelloLoadSpec {
   #packages : ['AST-Compiler', 'QuasiQuote'],
   #platforms : [ #pharo ]
 }
+  ],
+  #testing : [
   ]
 }
