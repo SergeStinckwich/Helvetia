@@ -9,6 +9,6 @@ SmalltalkCISpec {
     }
   ],
   #testing : {
-  # : ['Cutie-Helvetia.*']
+  #packages : ['Cutie-Helvetia.*']
   }
 }
