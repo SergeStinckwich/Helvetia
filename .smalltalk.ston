@@ -4,11 +4,11 @@ SmalltalkCISpec {
       #configuration : 'Helvetia',
       #repository : 'http://smalltalkhub.com/mc/SergeStinckwich/Helvetia/main',
       #load : [ 'default' ],
-      #platforms : [
-        #pharo ],
+      #platforms : [ #pharo ],
       #version: #development
     }
   ],
   #testing : [
+  #categories:['Cutie-Helvetia.*']
   ]
 }
