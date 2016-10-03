@@ -6,7 +6,7 @@ SmalltalkCISpec {
       #load : [ 'default' ],
       #platforms : [
         #pharo ],
-      #version: 'development'
+      #version: #development
     }
   ],
   #testing : [
