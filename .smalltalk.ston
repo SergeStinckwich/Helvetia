@@ -1,10 +1,13 @@
 SmalltalkCISpec {
   #loading : [
-SCIMonticelloLoadSpec {
-  #url : 'http://smalltalkhub.com/mc/SergeStinckwich/Helvetia/main',
-  #packages : ['AST-Compiler', 'QuasiQuote', 'Helvetia-Core'],
-  #platforms : [ #pharo ]
-}
+   SCIMetacelloLoadSpec {
+      #configuration : 'Helvetia',
+      #repository : 'http://smalltalkhub.com/mc/SergeStinckwich/Helvetia/main',
+      #load : [ 'default' ],
+      #platforms : [
+        #pharo ],
+      #version: 'development'
+    }
   ],
   #testing : [
   ]
