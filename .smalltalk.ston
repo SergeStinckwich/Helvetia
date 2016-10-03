@@ -5,10 +5,10 @@ SmalltalkCISpec {
       #repository : 'http://smalltalkhub.com/mc/SergeStinckwich/Helvetia/main',
       #load : [ 'default' ],
       #platforms : [ #pharo ],
-      #version: #development
+      #version : #development
     }
   ],
-  #testing : [
-  #categories:['Cutie-Helvetia.*']
-  ]
+  #testing : {
+  # : ['Cutie-Helvetia.*']
+  }
 }
