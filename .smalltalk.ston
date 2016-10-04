@@ -9,5 +9,8 @@ SmalltalkCISpec {
     }
   ],
   #testing : {
+  #coverage : {
+    #categories : ['Cutie-*', 'Helvetia-*', 'LanguageBoxes*', 'QuasiQuote-*']
+  }
   }
 }
