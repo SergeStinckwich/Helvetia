@@ -1,6 +1,8 @@
 # Helvetia
 
 [![Build Status](https://travis-ci.org/SergeStinckwich/Helvetia.svg?branch=master)](https://travis-ci.org/SergeStinckwich/Helvetia)
+[![Build status](https://ci.appveyor.com/api/projects/status/b3rl0an5dhtd4r5v?svg=true)](https://ci.appveyor.com/project/SergeStinckwich/helvetia)
+
 
 ```Smalltalk
 Gofer it
