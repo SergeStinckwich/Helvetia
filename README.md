@@ -1,4 +1,5 @@
-# Helvetia
+
+http://scg.unibe.ch/download/helvetia/helvetia.png
 
 [![Build Status](https://travis-ci.org/UMMISCO/Helvetia.svg?branch=master)](https://travis-ci.org/UMMISCO/Helvetia)
 [![Build status](https://ci.appveyor.com/api/projects/status/b3rl0an5dhtd4r5v?svg=true)](https://ci.appveyor.com/project/SergeStinckwich/helvetia)
