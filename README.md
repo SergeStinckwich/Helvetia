@@ -14,5 +14,9 @@ package: 'ConfigurationOfHelvetia';
 load.
 
 ConfigurationOfHelvetia loadDevelopment.
+
+"Tests are green, but in case you run into trouble:"
+CHCompiler enable. "To handle image-wide parsing through Helvetia"
+CHCompiler disable. "To switch back to OpalCompiler"
 ```
  
