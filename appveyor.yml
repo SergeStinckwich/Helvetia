@@ -6,7 +6,7 @@ environment:
   CYG_MIRROR: http://cygwin.mirror.constant.com
   SCI_RUN: /cygdrive/c/smalltalkCI-master/run.sh
   matrix:
-    - SMALLTALK: Moose-6.1
+    - SMALLTALK: Moose-6.0
 
 platform:
   - x86
