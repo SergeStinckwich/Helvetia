@@ -5,7 +5,7 @@ This is the port of [Helvetia](http://scg.unibe.ch/research/helvetia) to Pharo 5
 
 [![Build Status](https://travis-ci.org/UMMISCO/Helvetia.svg?branch=master)](https://travis-ci.org/UMMISCO/Helvetia)
 [![Build status](https://ci.appveyor.com/api/projects/status/an669lqnnacp6y57?svg=true)](https://ci.appveyor.com/project/SergeStinckwich/helvetia)
-[![Coverage Status](https://coveralls.io/repos/github/UMMISCO/Helvetia/badge.svg?branch=master)](https://coveralls.io/github/UMMISCO/Helvetia?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/UMMISCO/Helvetia/badge.svg)](https://coveralls.io/github/UMMISCO/Helvetia)
  
 ```Smalltalk
 Gofer it
