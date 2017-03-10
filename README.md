@@ -19,4 +19,3 @@ ConfigurationOfHelvetia loadDevelopment.
 CHCompiler enable. "To handle image-wide parsing through Helvetia"
 CHCompiler disable. "To switch back to OpalCompiler"
 ```
- 
